@@ -1,0 +1,21 @@
+{
+    "name": "com.mcyl-applicator.Editor",
+    "rootNamespace": "",
+    "references": [
+        "VRC.SDK3A",
+        "VRC.SDK3A.Editor",
+        "VRC.SDKBase",
+        "VRC.SDKBase.Editor",
+        "com.mcyl-applicator",
+        "nadena.dev.ndmf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

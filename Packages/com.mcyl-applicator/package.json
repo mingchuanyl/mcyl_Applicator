@@ -1,0 +1,24 @@
+{
+  "name": "com.mcyl-applicator",
+  "displayName": "com.mcyl-applicator",
+  "version": "0.0.1",
+  "description": "\u7b80\u5355\u5de5\u5177",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.10.4"
+  },
+  "author": {
+    "name": "mcyl",
+    "email": "2781616047@qq.com",
+    "url": ""
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "D:\\mods\\vpm\\mcyl_Applicator\\Packages\\com.mcyl-applicator",
+  "unity": "2022.3",
+  "dependencies": {
+    "nadena.dev.ndmf": "",
+    "com.vrchat.base": "3.10.0",
+    "com.vrchat.avatars": "3.10.0"
+  }
+}

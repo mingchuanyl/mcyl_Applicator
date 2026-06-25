@@ -1,0 +1,29 @@
+{
+    "name": "New Preset",
+    "selectedProperties": [
+        "_BacklightColor",
+        "_BacklightDirectivity",
+        "_ShadowStrength",
+        "_ShadowAOShift",
+        "_ShadowAOShift2",
+        "_ShadowColor",
+        "_ShadowBlur",
+        "_ShadowReceive",
+        "_Shadow2ndColor",
+        "_Shadow2ndBorder",
+        "_Shadow2ndBlur",
+        "_Shadow2ndReceive",
+        "_ShadowBorderColor",
+        "_ShadowEnvStrength",
+        "_RimShadeColor",
+        "_RimShadeBlur",
+        "_RimColor",
+        "_UseGlitter",
+        "_GlitterScaleRandomize",
+        "_GlitterParams1",
+        "_GlitterParams2",
+        "_GlitterSensitivity"
+    ],
+    "createdTime": "2026-06-14 02:25:14",
+    "description": "包含 22 个属性"
+}

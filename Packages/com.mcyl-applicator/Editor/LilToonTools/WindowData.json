@@ -1,0 +1,12 @@
+{
+    "sourceMaterialPath": "Assets/版本控制/!通用/tex/衣服.mat",
+    "targetMaterialPaths": [
+        "Assets/てんぱすおおもり/Honmei Knit/Material/Bag/Bag_Blue_Quilt.mat",
+        "Assets/てんぱすおおもり/Honmei Knit/Material/Bag/Bag_White_Quilt.mat",
+        "Assets/てんぱすおおもり/Honmei Knit/Material/Skirt/Skirt_Plain_Blue.mat",
+        "Assets/てんぱすおおもり/Honmei Knit/Material/Blouse_Hat/Blouse_Hat_08.mat",
+        "Assets/てんぱすおおもり/Honmei Knit/Material/Socks_Shoes/Socks/Socks_White_Blue.mat",
+        "Assets/てんぱすおおもり/Honmei Knit/Material/Knit/Knit_White_Blue.mat",
+        "Assets/てんぱすおおもり/Honmei Knit/Material/Socks_Shoes/Shoes/Shoes_White_Blue.mat"
+    ]
+}
